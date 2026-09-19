@@ -7,7 +7,8 @@ This guide gives you word-for-word resume bullet points using the **STAR (Situat
 ## 1. Resume Bullet Points (Ready to Copy-Paste)
 
 ### For Senior / High-Package Data Analyst Positions:
-> **OptiPrice: Marketplace Dynamic Pricing & Demand Elasticity Analytics Engine** *(Python, DuckDB, SQL, Statsmodels, Streamlit, Plotly)*
+> **OptiPrice: Marketplace Dynamic Pricing & Demand Elasticity Analytics Engine** *(Python, DuckDB, SQL, Statsmodels, Streamlit, Plotly)*  
+> *Live Demo: [optiprice-dynamic-pricing-ssbghzwb997fpztakxmpwv.streamlit.app](https://optiprice-dynamic-pricing-ssbghzwb997fpztakxmpwv.streamlit.app/)* | *GitHub: [github.com/AkashJambhulkar19/Optiprice-dynamic-pricing](https://github.com/AkashJambhulkar19/Optiprice-dynamic-pricing)*
 > * Architected an end-to-end pricing intelligence pipeline tracking 120+ SKUs and competitor telemetry across 3 e-commerce platforms, utilizing **DuckDB** and production **analytical SQL (Window Functions, CTEs)** to automate daily price gap modeling.
 > * Formulated multivariate **Log-Log Demand Elasticity OLS models** ($\ln Q = \alpha + \beta_1 \ln P + \beta_2 \ln P_{\text{comp}}$), isolating own-price and cross-price substitution effects across 4 retail categories ($R^2 = 0.81$).
 > * Engineered an interactive C-Suite executive cockpit in **Streamlit** featuring real-time "What-If" scenario simulation, identifying **$185,000+** in gross margin expansion opportunities and mitigating **18%** of competitor undercutting revenue drag.

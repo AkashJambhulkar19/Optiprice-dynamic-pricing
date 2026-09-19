@@ -1,11 +1,15 @@
 # 🚀 OptiPrice: Enterprise Competitor Pricing Intelligence & Demand Elasticity Engine
 
+[![Live Demo](https://img.shields.io/badge/Live%20Dashboard-Try%20OptiPrice%20Here-FF4B4B?style=for-the-badge&logo=streamlit)](https://optiprice-dynamic-pricing-ssbghzwb997fpztakxmpwv.streamlit.app/)
+
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-1.0%2B-FFF000.svg)](https://duckdb.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B.svg)](https://streamlit.io/)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75.svg)](https://plotly.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+> **Live Interactive Demo**: [https://optiprice-dynamic-pricing-ssbghzwb997fpztakxmpwv.streamlit.app/](https://optiprice-dynamic-pricing-ssbghzwb997fpztakxmpwv.streamlit.app/)
+> 
 > **An end-to-end commercial data analytics and dynamic pricing platform** built to solve multi-million-dollar pricing inefficiencies in modern e-commerce and quick-commerce retail. Engineered with **DuckDB analytical SQL**, **econometric log-log regression**, and an interactive **C-Suite Streamlit Cockpit**.
 
 ---
